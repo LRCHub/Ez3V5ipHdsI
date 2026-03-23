@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ラブクリエイト",
   "base_artist": "=LOVE",
-  "createdAt": "2026-03-21T13:50:03.162148Z",
+  "createdAt": "2026-03-23T16:07:55.733948Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "=LOVE",
       "has_synced": false,
       "path": "select/localdb_01_ラブクリエイト_=LOVE.txt",
+      "repo_name": "Ez3V5ipHdsI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ラブクリエイト",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/localdb_02_ラブクリエイト_=LOVE.txt",
       "repo_name": "11SXnMJKljk"
     }
   ]
